@@ -1,0 +1,17 @@
+site_name: Global Thermonuclear War
+
+repo_url: https://github.com/acquialibrary/global-thermonuclear-war
+site_description: 'Settle for nothing less'
+theme: readthedocs
+strict: true
+
+extra_javascript:
+  - readme/js/fix_search.js
+
+markdown_extensions:
+  - toc:
+      permalink: True
+
+pages:
+  - Home: 'index.md'
+  - Overview: 'README.md'
