@@ -14,4 +14,4 @@ markdown_extensions:
 
 pages:
   - Home: 'index.md'
-  - Overview: 'README.md'
+  - README file: 'README.md'

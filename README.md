@@ -9,3 +9,7 @@ Random testing of integrations.
 * Warmongering things
 * Incendiary devices
 * WOPR
+
+# To make changes to this page
+
+* Edit README.md in the main directory.
