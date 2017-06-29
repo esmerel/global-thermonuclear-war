@@ -8,6 +8,12 @@ These documents may possibly stab you in the face.
 
 You're ok with that, right?
 
+.. seealso:: This is a simple **seealso** note.
+
+.. note::  This is a **note** box.
+
+.. warning:: note the space between the directive and the text
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
