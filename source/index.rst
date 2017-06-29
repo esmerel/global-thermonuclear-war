@@ -18,6 +18,12 @@ You're ok with that, right?
    :maxdepth: 2
    :caption: Contents:
 
+.. sidebar:: Sidebar Title
+    :subtitle: Optional Sidebar Subtitle
+
+    Subsequent indented lines comprise
+    the body of the sidebar, and are
+    interpreted as body elements.
 
 
 Indices and tables
