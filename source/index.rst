@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to War 4's documentation!
+These documents may possibly stab you in the face.
 =================================
+
+You're ok with that, right?
 
 .. toctree::
    :maxdepth: 2
