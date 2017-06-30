@@ -105,6 +105,3 @@ Indices and tables
 
    "Smith", "John", 40
    "Smith", "John, Junior", 20
-
-
-.. todolist::
