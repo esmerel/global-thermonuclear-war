@@ -27,7 +27,9 @@ Subtitle: useful pages to build a style guide from
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Behold our crap:
+
+   todos
 
 
 
