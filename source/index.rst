@@ -17,7 +17,7 @@ Subtitle: useful pages to build a style guide from
 * http://www.sphinx-doc.org/en/stable/rest.html
 * http://www.sphinx-doc.org/en/stable/tutorial.html
 
-.. seealso:: This is a simple **seealso** note.
+.. seealso:: This is a moderately simple **seealso** note.
 
 .. note::  This is a **note** box.
 
