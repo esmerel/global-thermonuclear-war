@@ -9,6 +9,12 @@ These documents may possibly stab you in the face.
 
 You're ok with that, right?
 
+####################
+Subtitle: useful pages to build a style guide from
+####################
+
+* https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
+
 .. seealso:: This is a simple **seealso** note.
 
 .. note::  This is a **note** box.
@@ -23,11 +29,12 @@ You're ok with that, right?
 
 Drumstick ut fugiat spare ribs, pig irure kielbasa pastrami ham hock veniam non voluptate venison. Biltong jowl ball tip, est cow flank corned beef hamburger pancetta short ribs velit meatball. Occaecat pork minim ham hock, adipisicing tenderloin pariatur drumstick tempor do biltong flank beef ribs. Pariatur tri-tip duis voluptate, chicken occaecat id nulla pork loin quis jowl ut tail.
 
-####################
-Subtitles look like this
-####################
 
-We need to discuss whether titles should have over- and under-lines. There are advantages and disadvantages. It's almost like we need a style guide.
+.. todo:: We need to discuss whether titles should have over- and under-lines. There are advantages and disadvantages.
+
+.. todo:: We also need to talk about anchors in the text.
+
+It's almost like we need a style guide. (づ◕‿◕｡)づ
 
 .. code-block:: php
     :linenos:
@@ -36,6 +43,13 @@ We need to discuss whether titles should have over- and under-lines. There are a
 
 This is a section
 ======================
+
+* # with overline, for parts
+* * with overline, for chapters
+* =, for sections
+* -, for subsections
+* ^, for subsubsections
+* ", for paragraphs
 
 consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora
 
@@ -87,3 +101,6 @@ Indices and tables
 
    "Smith", "John", 40
    "Smith", "John, Junior", 20
+
+
+.. todolist::
