@@ -11,7 +11,7 @@ Links
 * single ``*asterisks*`` should get you *italics*
 * double ``**asterisks**`` should get you **bolding**
 * `python <www.python.org>`_ is a standard link
-* but if you encase that same code in two backticks on each side, like this: ```python <www.python.org>`_`` you should get a literal
+** but if you encase that same code in two backticks on each side, like this: ```python <www.python.org>`_`` you should get a literal
 
 Lists
 =========
@@ -19,8 +19,10 @@ Lists
 * Asterisks for
 * unordered lists
 
-# Pound / hash signs for
-# ordered lists
+1. Use numbers for
+2. Ordered lists
+  a. Amy isn't thrilled about this requirement, FYI
+  b. Craig will tell her to get over it
 
 
 Directive boxes
@@ -39,8 +41,8 @@ Directive boxes
 About sections
 ======================
 
-# If under and overline are used, their length must be identical.
-# The length of the underline must be at least as long as the title itself
+* If under and overline are used, their length must be identical.
+* The length of the underline must be at least as long as the title itself
 
 This is a sub-section
 ------------------------
@@ -50,18 +52,20 @@ This is a sub-sub-section
 
 When writing up sections, there are some conventions.
 
-* # with overline, for parts
-* * with overline, for chapters
-* =, for sections
-* -, for subsections
-* ^, for subsubsections
-* ", for paragraphs
+* ``#`` with overline, for parts
+* ``*`` with overline, for chapters
+* ``=``, for sections
+* ``-``, for subsections
+* ``^``, for subsubsections
+* ``"``, for paragraphs
 
 .. todo:: We need to discuss whether titles should have over- and under-lines. There are advantages and disadvantages.
 
 
 Code-related
 ======================
+
+Inline code is best done by wrapping your code ``in two backticks`` on each side
 
 .. code-block:: php
     :linenos:
