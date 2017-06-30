@@ -9,9 +9,9 @@ These documents may possibly stab you in the face.
 
 You're ok with that, right?
 
-####################
+############################################################
 Subtitle: useful pages to build a style guide from
-####################
+############################################################
 
 * https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
 * http://www.sphinx-doc.org/en/stable/rest.html
@@ -107,4 +107,4 @@ Indices and tables
    "Smith", "John, Junior", 20
 
 
-.. todolist:: Here's where the to-do list goes
+.. todolist::
