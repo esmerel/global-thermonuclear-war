@@ -10,7 +10,7 @@ Techpubs Test
 You're ok with that, right?
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Our pages so far:
 
    styles-basic

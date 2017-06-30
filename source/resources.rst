@@ -1,6 +1,8 @@
 Resources
 *****************************************************
 
+Our master scratchpad is at https://docs.google.com/document/d/16BX5nxBttZm7anPuDyqVQbfwC8NijDzQ0aYmsgDvK7U/edit#
+
 ############################################################
 Style
 ############################################################
@@ -17,13 +19,13 @@ None yet.
 Readthedocs
 ############################################################
 
-None yet.
+* How readthedocs does builds: http://docs.readthedocs.io/en/latest/builds.html
 
 ############################################################
 Sphinx
 ############################################################
 
-None yet.
+* Sphinx first steps: http://www.sphinx-doc.org/en/stable/tutorial.html
 
 ############################################################
 Unfiled resources
