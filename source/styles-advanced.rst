@@ -1,6 +1,21 @@
 Advanced text styles
 *****************************************************
 
+Images
+======================
+
+.. image:: images/cats.jpg
+
+Figures
+=============
+
+Figures are images with captions
+
+.. figure:: images/cats.jpg
+  :scale: 50 %
+
+  Beryl and Kolohe.
+
 Topics
 ======================
 .. topic:: Your Topic Title
