@@ -5,7 +5,7 @@ Resources
 Style
 ############################################################
 
-None yet.
+* http://docutils.sourceforge.net/docs/user/rst/quickref.html
 
 ############################################################
 Github

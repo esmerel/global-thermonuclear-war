@@ -23,6 +23,8 @@ Drumstick ut fugiat spare ribs, pig irure kielbasa pastrami ham hock veniam non 
 .. sidebar:: Sidebar Title
     :subtitle: Optional Sidebar Subtitle
 
+    Our builds: https://readthedocs.org/projects/global-thermonuclear-war/builds/
+
     It's almost like we need a style guide. (づ◕‿◕｡)づ
 
 consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora
