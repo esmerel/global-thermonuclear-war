@@ -14,10 +14,14 @@ Subtitle: useful pages to build a style guide from
 ####################
 
 * https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html
+* http://www.sphinx-doc.org/en/stable/rest.html
+* http://www.sphinx-doc.org/en/stable/tutorial.html
 
 .. seealso:: This is a simple **seealso** note.
 
 .. note::  This is a **note** box.
+
+.. tip::  Don't eat yellow snow.
 
 .. warning:: note the space between the directive and the text
 
