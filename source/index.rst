@@ -103,4 +103,4 @@ Indices and tables
    "Smith", "John, Junior", 20
 
 
-.. todolist::
+.. todolist:: Here's where the to-do list goes
